@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlbinPakashtica
-- 👀 I’m interested in Philosopy, Film, Photography and of course, Programming!
+- 👀 I’m interested in Philosophy, Film, Photography and of course, Programming!
 - 🌱 I’m currently learning JavaScript, Rust, 
 - 💞️ I’m looking to collaborate on whatever I'm not too insecure about.
 - 📫 How to reach me: send a funny commit, if you can.
